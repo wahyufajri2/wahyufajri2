@@ -1,16 +1,50 @@
-## Hi there 👋
+# Halo, Saya [Nama Anda]! 👋
 
-<!--
-**wahyufajri2/wahyufajri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang web developer yang bersemangat dengan keahlian dalam membangun aplikasi web yang dinamis dan responsif. Saya memiliki pengalaman mendalam dalam menggunakan framework PHP seperti **CodeIgniter** dan **Laravel**, serta framework JavaScript modern seperti **Alpine.js**.
 
-Here are some ideas to get you started:
+## 🔧 Keahlian Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend:**
+    * PHP (CodeIgniter, Laravel)
+    * MySQL, PostgreSQL
+    * RESTful API Development
+
+* **Frontend:**
+    * HTML, CSS, JavaScript
+    * Alpine.js
+    * Tailwind CSS (opsional)
+
+* **Lainnya:**
+    * Git, GitHub
+    * Deployment (misalnya, Heroku, AWS, DigitalOcean)
+
+## 🚀 Proyek-Proyek Saya
+
+* **[Nama Proyek 1]**
+    * Deskripsi singkat tentang proyek
+    * Teknologi yang digunakan
+    * Link ke repositori atau demo (jika ada)
+
+* **[Nama Proyek 2]**
+    * ...
+
+* **[Nama Proyek 3]**
+    * ...
+
+## 🌱 Saya Sedang Belajar
+
+* [Teknologi atau konsep baru yang sedang Anda pelajari]
+
+## 📫 Cara Menghubungi Saya
+
+* [Email Anda]
+* [LinkedIn Anda] (opsional)
+* [Website Portofolio Anda] (opsional)
+
+## 😄 Fun Facts
+
+* [Tambahkan beberapa fakta menarik tentang diri Anda]
+
+## 📊 Statistik GitHub
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=[username_github_anda]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
